@@ -34,3 +34,27 @@ Lista de Tarefas
 - [ ] finalizar reunião com o cliente 
 
 [Acesse meu Github](https://github.com/IsraFerreira)
+
+
+Numero | Nome | Nota
+---|---|---
+1 | Israel | 10
+2 | José | 8,5
+3 | Maria | 9
+
+Explicitar comandos `document.getElementById()`
+
+```
+Sou um código
+```
+
+Emoji 🤭 
+
+Citações e marcar amigos
+@nomedoamigo
+
+
+
+
+
+
