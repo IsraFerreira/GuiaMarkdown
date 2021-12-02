@@ -1,8 +1,8 @@
-# Primeiro Repositório
+# GuiaMarkdown
 ***
  Primeiro Repositorio Versionado
 
- Repósito criado durante uma aula no curso de Git e também utilizado para o aprendizado em Markdown
+ Repósito utilizado para o aprendizado em Markdown
  
  Estou aprendendo linguagem __Markdown__ no Curso em vídeo de Git e GitHub
  
